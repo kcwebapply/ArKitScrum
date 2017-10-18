@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire"
+github "SwiftyJSON/SwiftyJSON"
+github "realm/realm-cocoa"
+github "Krimpedance/KRProgressHUD"
+github "socketio/socket.io-client-swift" ~> 9.0.1
